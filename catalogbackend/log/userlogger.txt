@@ -1,0 +1,42 @@
+2020-05-25 16:00:38,108 DEBUG USERLOGGER [http-nio-8081-exec-8] all user of the system consulted, total: 2
+2020-05-25 16:22:26,061 DEBUG USERLOGGER [http-nio-8081-exec-4] all user of the system consulted, total: 2
+2020-05-25 16:23:03,501 DEBUG USERLOGGER [http-nio-8081-exec-5] registring user: new
+2020-05-25 16:23:03,588 DEBUG USERLOGGER [http-nio-8081-exec-5] registred user: new
+2020-05-25 16:23:03,698 DEBUG USERLOGGER [http-nio-8081-exec-9] all user of the system consulted, total: 3
+2020-05-25 16:23:41,788 DEBUG USERLOGGER [http-nio-8081-exec-7] updating user with id: 8
+2020-05-25 16:23:41,796 DEBUG USERLOGGER [http-nio-8081-exec-7] updated user with id: 8
+2020-05-25 16:23:41,869 DEBUG USERLOGGER [http-nio-8081-exec-1] all user of the system consulted, total: 3
+2020-05-25 16:23:48,836 DEBUG USERLOGGER [http-nio-8081-exec-4] deleting user with id: 8
+2020-05-25 16:23:48,852 DEBUG USERLOGGER [http-nio-8081-exec-4] deleted user with id: 8
+2020-05-25 16:23:48,915 DEBUG USERLOGGER [http-nio-8081-exec-5] all user of the system consulted, total: 2
+2020-05-25 16:28:51,051 DEBUG USERLOGGER [http-nio-8081-exec-1] all user of the system consulted, total: 2
+2020-05-25 16:29:18,415 DEBUG USERLOGGER [http-nio-8081-exec-3] registring user: NEW
+2020-05-25 16:29:18,427 DEBUG USERLOGGER [http-nio-8081-exec-3] registred user: NEW
+2020-05-25 16:29:18,490 DEBUG USERLOGGER [http-nio-8081-exec-4] all user of the system consulted, total: 3
+2020-05-25 16:29:28,408 DEBUG USERLOGGER [http-nio-8081-exec-5] updating user with id: 9
+2020-05-25 16:29:28,419 DEBUG USERLOGGER [http-nio-8081-exec-5] updated user with id: 9
+2020-05-25 16:29:28,471 DEBUG USERLOGGER [http-nio-8081-exec-2] all user of the system consulted, total: 3
+2020-05-25 16:29:38,340 DEBUG USERLOGGER [http-nio-8081-exec-9] deleting user with id: 9
+2020-05-25 16:29:38,347 DEBUG USERLOGGER [http-nio-8081-exec-9] deleted user with id: 9
+2020-05-25 16:29:38,378 DEBUG USERLOGGER [http-nio-8081-exec-8] all user of the system consulted, total: 2
+2020-05-25 16:39:01,265 DEBUG USERLOGGER [http-nio-8081-exec-5] all user of the system consulted, total: 2
+2020-05-25 16:53:30,211 DEBUG USERLOGGER [http-nio-8081-exec-8] all user of the system consulted, total: 2
+2020-05-25 16:54:02,630 DEBUG USERLOGGER [http-nio-8081-exec-7] registring user: new 
+2020-05-25 16:54:02,645 DEBUG USERLOGGER [http-nio-8081-exec-7] registred user: new 
+2020-05-25 16:54:02,706 DEBUG USERLOGGER [http-nio-8081-exec-5] all user of the system consulted, total: 3
+2020-05-25 16:54:13,040 DEBUG USERLOGGER [http-nio-8081-exec-10] updating user with id: 10
+2020-05-25 16:54:13,049 DEBUG USERLOGGER [http-nio-8081-exec-10] updated user with id: 10
+2020-05-25 16:54:13,088 DEBUG USERLOGGER [http-nio-8081-exec-2] all user of the system consulted, total: 3
+2020-05-25 16:54:22,337 DEBUG USERLOGGER [http-nio-8081-exec-3] deleting user with id: 10
+2020-05-25 16:54:22,344 DEBUG USERLOGGER [http-nio-8081-exec-3] deleted user with id: 10
+2020-05-25 16:54:22,374 DEBUG USERLOGGER [http-nio-8081-exec-4] all user of the system consulted, total: 2
+2020-05-25 16:58:57,876 DEBUG USERLOGGER [http-nio-8081-exec-8] all user of the system consulted, total: 2
+2020-05-25 16:59:24,926 DEBUG USERLOGGER [http-nio-8081-exec-4] registring user: new
+2020-05-25 16:59:24,941 DEBUG USERLOGGER [http-nio-8081-exec-4] registred user: new
+2020-05-25 16:59:24,996 DEBUG USERLOGGER [http-nio-8081-exec-3] all user of the system consulted, total: 3
+2020-05-25 16:59:34,602 DEBUG USERLOGGER [http-nio-8081-exec-5] updating user with id: 11
+2020-05-25 16:59:34,607 DEBUG USERLOGGER [http-nio-8081-exec-5] updated user with id: 11
+2020-05-25 16:59:34,660 DEBUG USERLOGGER [http-nio-8081-exec-7] all user of the system consulted, total: 3
+2020-05-25 16:59:39,977 DEBUG USERLOGGER [http-nio-8081-exec-1] deleting user with id: 11
+2020-05-25 16:59:39,988 DEBUG USERLOGGER [http-nio-8081-exec-1] deleted user with id: 11
+2020-05-25 16:59:40,033 DEBUG USERLOGGER [http-nio-8081-exec-10] all user of the system consulted, total: 2
